@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<beans>
+    <bean id="javaBean" class="com.spring.JavaBean">
+        <property name="userName">
+            <value>我的Bean</value>
+        </property>
+        <property name="password">
+            <value>1011</value>
+        </property>
+    </bean>
+</beans>
